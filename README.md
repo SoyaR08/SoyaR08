@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![SoyaR08's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoyaR08&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛠️ Tecnologías y habilidades
 - **Lenguajes de programación:** Python, Java, PHP, JavaScript
 - **Frontend:** React, HTML5, CSS3, Bootstrap
