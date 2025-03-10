@@ -1,4 +1,4 @@
-## Hi Everyone, it´s Rafa
+## Hi Everyone, it´s Rafa a web development student who tries to learn everything who can to make better pages
 
 <!--
 **SoyaR08/SoyaR08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,14 @@ Here are some ideas to get you started:
 
 [![SoyaR08's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoyaR08&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🛠️ Tecnologías y habilidades
+## 🛠️ Technologies and skills
 - **Lenguajes de programación:** Python, Java, PHP, JavaScript
-- **Frontend:** React, HTML5, CSS3, Bootstrap
-- **Backend:** Node.js, PHP con MySQL
-- **Otros:** Docker, Xdebug, WSL
+- **Frontend:** React, Angular
+- **Backend:** Node.js, PHP con MySQL, Spring Boot & Spring API
+
+## Something about me
+
+- 📫 How to reach me: You can contact me from here and sending a mail to rafa140200@gmail.com
+- ⚡ Fun fact: I love chess, you can also challenge me on the chessboard
 
 ---
