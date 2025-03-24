@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![SoyaR08's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoyaR08&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![SoyaR08's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoyaR08&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Technologies and skills
 - **Lenguajes de programación:** Python, Java, PHP, JavaScript
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ## Something about me
 
+- 🔭 I’m currently working on new web applications on different frameworks and languages
 - 📫 How to reach me: You can contact me from here and sending a mail to rafa140200@gmail.com
 - ⚡ Fun fact: I love chess, you can also challenge me on the chessboard
 
