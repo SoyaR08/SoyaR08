@@ -21,8 +21,23 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
    
-  <a href="#"><img src="https://skillicons.dev/icons?i=py,java,html,css,js,php,ts,bootstrap,git,react,laravel,angular,flask,vscode,eclipse&perline=5" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py,java,html,css,js,php,ts&perline=5" /></a>
   
+</p>
+
+<h3 align="left">Frameworks</h3>
+<p align="left">
+ <a href="#"><img src="https://skillicons.dev/icons?i=spring,react,angular,laravel,flask&perline=5" /></a>
+</p>
+
+<h3 align="left">Other Tools</h3>
+<p>
+ <a><img src="https://skillicons.dev/icons?i=docker,git,github,mysql,bootstrap,selenium,jenkins&perline=5"/></a>
+</p>
+
+<h3 align="left">IDE's</h3>
+<p>
+  <a><img src="https://skillicons.dev/icons?i=vscode,eclipse,idea&perline=5"/></a>
 </p>
 
 ------
@@ -33,6 +48,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SoyaR08&count_private=true&theme=react" alt="SoyaR08" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SoyaR08&row=2&column=3&theme=discord&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
