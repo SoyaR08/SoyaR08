@@ -1,84 +1,27 @@
-<!--![logo](https://github.com/arjunsingh27/arjunsingh27/blob/main/1.jpg)-->
- 
-<h1 align="center">Hi Everyone👋, it´s Rafa</h1>
-<h3 align="center">A web development student who tries to learn everything who can to make better pages</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SoyaR08&label=Profile%20views&color=0e75b6&style=flat" alt="SoyaR08" /> </p>
-
-<img align="right" alt="coding" width="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+# 💫 About Me:
+🔭 I’m currently working on new web applications on different frameworks and languages<br>⚡ Fun fact: I love chess, you can also challenge me on the chessboard<br>📫 How to reach me **rafa140200@gmail.com**<br>
 
 
-- 🔭 I’m currently working on new web applications on different frameworks and languages
-- ⚡ Fun fact: I love chess, you can also challenge me on the chessboard
-- 📫 How to reach me **rafa140200@gmail.com**
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/soya_08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafael-navarro-g%C3%B3mez-4b31b9356/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jediknightr14) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rafael-navarro-g%C3%B3mez-4b31b9356/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-singh-27-" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arjunchaudhary27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arjunchaudhary27" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@arjunsingh10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arjunsingh10" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SoyaR08&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SoyaR08&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoyaR08&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-   
-  <a href="#"><img src="https://skillicons.dev/icons?i=py,java,html,css,js,php,ts&perline=5" /></a>
-  
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SoyaR08&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Frameworks</h3>
-<p align="left">
- <a href="#"><img src="https://skillicons.dev/icons?i=spring,react,angular,laravel,flask&perline=5" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<h3 align="left">Other Tools</h3>
-<p>
- <a><img src="https://skillicons.dev/icons?i=docker,git,github,mysql,bootstrap,selenium,jenkins&perline=5"/></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SoyaR08&limit=5&theme=react&combine_all_yearly_contributions=true)
 
-<h3 align="left">IDE's</h3>
-<p>
-  <a><img src="https://skillicons.dev/icons?i=vscode,eclipse,idea&perline=5"/></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=SoyaR08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-------
-
-<h1 align="center">GitHub Stats</h1>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyaR08&theme=react&layout=compact" alt="SoyaR08" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SoyaR08&count_private=true&theme=react" alt="SoyaR08" /></p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SoyaR08&row=2&column=3&theme=discord&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-------
-
-
-
-<!--
-Credit: [arjunsingh27](https://github.com/arjunsingh27)
-Last Edited on: 19/01/2024
-**SoyaR08/SoyaR08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![SoyaR08's GitHub stats]()](https://github.com/anuraghazra/github-readme-stats)
-## Something about me
-## 🛠️ Technologies and skills
-- **Lenguajes de programación:** Python, Java, PHP, JavaScript
-- **Frontend:** React, Angular
-- **Backend:** Node.js, PHP con MySQL, Spring Boot & Spring API
--->
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
